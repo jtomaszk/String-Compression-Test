@@ -1,0 +1,3 @@
+rootProject.name = 'String-Compression'
+include 'app'
+
